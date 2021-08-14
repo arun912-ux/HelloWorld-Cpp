@@ -7,8 +7,8 @@ int main()
 {
     std::cout << "Hello World!" << std::endl;
 
-    /*char c{};
-    c << std::cin.get();*/
+    char c{};
+    c << std::cin.get();
 
     return 0;
 
